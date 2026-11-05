@@ -1,0 +1,19 @@
+{
+  "sourceHash": "289e8a5f3685b1526fabd5ac0c8161aa1422341357d82ba04f6d53e95f3e3335",
+  "reportHash": "5e2c59261e715ff75fc9c95321167da7491dcd0620f5e0af4c774a758864236b",
+  "reviews": [
+    {
+      "itemIndex": 0,
+      "expectedId": "payable",
+      "correct": true,
+      "supported": false
+    },
+    {
+      "itemIndex": 1,
+      "expectedId": "overpaid",
+      "correct": true,
+      "supported": false
+    }
+  ],
+  "method": "Manual comparison of values and rendered region overlays against the original JPEG. A supported region contains the full correct label and value/control."
+}

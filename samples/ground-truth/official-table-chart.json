@@ -1,0 +1,32 @@
+{
+  "sourceHash": "dbd096f67a2b1f6baed9f989914cefffee860d27c71294d168876b40f7b36c7c",
+  "purpose": "development",
+  "coverage": "partial",
+  "instruction": "Extract the Authors and Task Attributes rows for Kim et al. (2019), Zhu et al. (2013), and Wang et al. (2019) in Table 1 including its continued pages. Preserve row and column hierarchy. Also extract all printed values in Table 4, and the captions, axis labels, units and printed data labels of Figures 2 and 3. Do not estimate unlabeled data values. Include source pages and exact quotes or source regions.",
+  "items": [
+    {
+      "id": "vh",
+      "expected": "VH 31.8 71.8"
+    },
+    {
+      "id": "ah",
+      "expected": "AH 42.7 75.1"
+    },
+    {
+      "id": "vv",
+      "expected": "VV 35.1 63.9"
+    },
+    {
+      "id": "av",
+      "expected": "AV 43.1 68.3"
+    },
+    {
+      "id": "fig2",
+      "expected": "Task completion time for different maintenance conditions"
+    },
+    {
+      "id": "fig3",
+      "expected": "Number of errors for different maintenance conditions"
+    }
+  ]
+}

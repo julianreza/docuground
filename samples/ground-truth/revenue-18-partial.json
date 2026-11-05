@@ -1,0 +1,43 @@
+{
+  "document": "samples/inputs/Gemini Benchmark Test Suite (1).pdf",
+  "version": "DG-BENCH-2026-V1",
+  "coverage": "partial",
+  "note": "Exploratory annotation for one four-field revenue instruction. Source page 1 only. Page 16 is an embedded answer key and is excluded as grounding evidence. Partial review, not an acceptance benchmark.",
+  "items": [
+    {
+      "id": "revenue.acme.2023.million-usd",
+      "value": "8.4",
+      "sourcePage": 1,
+      "entity": "Acme Corp",
+      "period": "2023",
+      "unit": "million USD"
+    },
+    {
+      "id": "revenue.acme.2024.million-usd",
+      "value": "10",
+      "sourcePage": 1,
+      "entity": "Acme Corp",
+      "period": "2024",
+      "unit": "million USD"
+    },
+    {
+      "id": "revenue.beta.2023.million-usd",
+      "value": "10",
+      "sourcePage": 1,
+      "entity": "Beta Holdings",
+      "period": "2023",
+      "unit": "million USD"
+    },
+    {
+      "id": "revenue.beta.2024.million-usd",
+      "value": "12.5",
+      "sourcePage": 1,
+      "entity": "Beta Holdings",
+      "period": "2024",
+      "unit": "million USD"
+    }
+  ],
+  "sourceHash": "99b1ca348614718edbb8f88e4ead08c1eab85498a1861d1c844815a2719536d8",
+  "instruction": "Extract annual operating revenue for Acme Corp and Beta Holdings for years 2023 and 2024, citing source pages.",
+  "purpose": "development"
+}

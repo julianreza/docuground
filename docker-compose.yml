@@ -1,0 +1,14 @@
+services:
+  app:
+    build: .
+    ports:
+      - "127.0.0.1:3000:3000"
+    environment:
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY:-}
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      GEMINI_MODEL: ${GEMINI_MODEL:-gemini-3.1-flash-lite}
+      NINEROUTER_BASE_URL: ${NINEROUTER_BASE_URL:-}
+      NINEROUTER_MODEL: ${NINEROUTER_MODEL:-}
+      NINEROUTER_API_KEY: ${NINEROUTER_API_KEY:-}
+      SCALEDOWN_ENABLED: ${SCALEDOWN_ENABLED:-false}
+      SCALEDOWN_API_KEY: ${SCALEDOWN_API_KEY:-}

@@ -1,0 +1,37 @@
+{
+  "sourceHash": "289e8a5f3685b1526fabd5ac0c8161aa1422341357d82ba04f6d53e95f3e3335",
+  "reportHash": "82c2de0557b449bfe9ec3a30ba99a1a0ac2d3a3d12905c487347eeaa660a8acb",
+  "reviews": [
+    {
+      "itemIndex": 0,
+      "expectedId": "year",
+      "correct": true,
+      "supported": true
+    },
+    {
+      "itemIndex": 1,
+      "expectedId": "net",
+      "correct": true,
+      "supported": true
+    },
+    {
+      "itemIndex": 2,
+      "expectedId": "taxable",
+      "correct": true,
+      "supported": true
+    },
+    {
+      "itemIndex": 3,
+      "expectedId": "payable",
+      "correct": true,
+      "supported": false
+    },
+    {
+      "itemIndex": 4,
+      "expectedId": "date",
+      "correct": true,
+      "supported": true
+    }
+  ],
+  "method": "Manual comparison of values and rendered region overlays against the original JPEG. A supported region contains the full correct label and value/control."
+}

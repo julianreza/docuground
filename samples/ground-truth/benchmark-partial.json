@@ -1,0 +1,22 @@
+{
+  "document": "samples/inputs/Gemini Benchmark Test Suite.pdf",
+  "version": "DG-BENCH-2026-V1",
+  "coverage": "partial",
+  "note": "Manually transcribed text-layer items for development. This is not complete ground truth or an acceptance benchmark.",
+  "items": [
+    { "id": "corpus.filings", "value": "1450", "page": 1 },
+    { "id": "corpus.pages", "value": "26100", "page": 1 },
+    { "id": "corpus.forms", "value": "620", "page": 1 },
+    { "id": "corpus.centers", "value": "14", "page": 1 },
+    { "id": "revenue.acme.2023.million-usd", "value": "8.4", "page": 1 },
+    { "id": "revenue.acme.2024.million-usd", "value": "10", "page": 1 },
+    { "id": "revenue.beta.2023.million-usd", "value": "10", "page": 1 },
+    { "id": "revenue.beta.2024.million-usd", "value": "12.5", "page": 1 },
+    { "id": "form.filing-organization", "value": "PT Nusantara Medika Teknologi", "page": 3 },
+    { "id": "form.filing-effective-date", "value": "2026-10-15", "page": 3 },
+    { "id": "form.indemnity-cap-usd", "value": "250000", "page": 3 },
+    { "id": "form.batch-limit-mb", "value": "25.0", "page": 3 },
+    { "id": "archive.custody-code", "value": "ARC-9920-ID", "page": 4 },
+    { "id": "archive.retention-years", "value": "7", "page": 4 }
+  ]
+}

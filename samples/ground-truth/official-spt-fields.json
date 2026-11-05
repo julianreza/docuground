@@ -1,0 +1,28 @@
+{
+  "sourceHash": "289e8a5f3685b1526fabd5ac0c8161aa1422341357d82ba04f6d53e95f3e3335",
+  "purpose": "development",
+  "coverage": "partial",
+  "instruction": "Extract only the tax year, net fiscal income (Penghasilan Neto Fiskal), taxable income (Penghasilan Kena Pajak), income tax payable by the taxpayer (PPh yang harus dibayar sendiri), and payment date. Preserve the printed amounts and date. For each field, cite the image region containing both the label and the value. Distinguish blank from unreadable.",
+  "items": [
+    {
+      "id": "year",
+      "expected": "2021"
+    },
+    {
+      "id": "net",
+      "expected": "Rp62.628.902"
+    },
+    {
+      "id": "taxable",
+      "expected": "Rp42.628.902"
+    },
+    {
+      "id": "payable",
+      "expected": "Rp1.900.100"
+    },
+    {
+      "id": "date",
+      "expected": "30 04 2022"
+    }
+  ]
+}

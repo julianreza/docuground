@@ -1,0 +1,24 @@
+node_modules
+.next
+.git
+.env*
+!.env.example
+*.tsbuildinfo
+.DS_Store
+*.log
+coverage
+out
+.idea
+.vscode
+AI Engineer Architecture Plan.md
+Docuground Execution Plan v2.0.md
+Neobrutalism Design Spec - AI Engineer Test.md
+REVIEW-TAKE-HOME.md
+DocuGround Report*.json
+DocuGround Report*.md
+hasil
+samples/baseline
+samples/outputs/official
+samples/outputs/iteration-1
+samples/outputs/*.json
+samples/outputs/*.md

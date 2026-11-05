@@ -1,0 +1,34 @@
+# Dependencies and generated output
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+*.log
+
+# Local credentials; commit only the empty configuration template
+.env*
+!.env.example
+
+# OS and editor files
+.DS_Store
+/.idea/
+/.vscode/
+
+# Internal planning and working notes
+/AI Engineer Architecture Plan.md
+/Docuground Execution Plan v2.0.md
+/Neobrutalism Design Spec - AI Engineer Test.md
+/REVIEW-TAKE-HOME.md
+
+# Local downloads, experiment history and superseded reports
+/DocuGround Report*.json
+/DocuGround Report*.md
+/hasil/
+/samples/baseline/
+/samples/outputs/official/
+/samples/outputs/iteration-1/
+/samples/outputs/*.json
+/samples/outputs/*.md
+
+# Submission results in samples/outputs/final/ and research-fix/ stay included.

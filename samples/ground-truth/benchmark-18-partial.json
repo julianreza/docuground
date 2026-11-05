@@ -1,0 +1,58 @@
+{
+  "document": "samples/inputs/Gemini Benchmark Test Suite (1).pdf",
+  "version": "DG-BENCH-2026-V1",
+  "coverage": "partial",
+  "note": "Development annotations transcribed from source pages. Pages 16–18 contain an answer table and must not be used as evidence for these items. This file does not constitute a complete acceptance benchmark.",
+  "items": [
+    {
+      "id": "revenue.acme.2023.million-usd",
+      "value": "8.4",
+      "sourcePage": 1,
+      "entity": "Acme Corp",
+      "period": "2023",
+      "unit": "million USD"
+    },
+    {
+      "id": "revenue.acme.2024.million-usd",
+      "value": "10",
+      "sourcePage": 1,
+      "entity": "Acme Corp",
+      "period": "2024",
+      "unit": "million USD"
+    },
+    {
+      "id": "revenue.beta.2023.million-usd",
+      "value": "10",
+      "sourcePage": 1,
+      "entity": "Beta Holdings",
+      "period": "2023",
+      "unit": "million USD"
+    },
+    {
+      "id": "revenue.beta.2024.million-usd",
+      "value": "12.5",
+      "sourcePage": 1,
+      "entity": "Beta Holdings",
+      "period": "2024",
+      "unit": "million USD"
+    },
+    {
+      "id": "free-cash-flow.vertex.2024.million-usd",
+      "value": "45.0",
+      "sourcePage": 5,
+      "entity": "Vertex Global Ltd",
+      "period": "2024",
+      "unit": "million USD"
+    },
+    {
+      "id": "free-cash-flow.zenith.2023.million-usd",
+      "value": "45.0",
+      "sourcePage": 5,
+      "entity": "Zenith Maritime Corp",
+      "period": "2023",
+      "unit": "million USD"
+    }
+  ],
+  "sourceHash": "99b1ca348614718edbb8f88e4ead08c1eab85498a1861d1c844815a2719536d8",
+  "purpose": "development"
+}

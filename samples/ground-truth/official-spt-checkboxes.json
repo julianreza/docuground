@@ -1,0 +1,16 @@
+{
+  "sourceHash": "289e8a5f3685b1526fabd5ac0c8161aa1422341357d82ba04f6d53e95f3e3335",
+  "purpose": "development",
+  "coverage": "partial",
+  "instruction": "Extract the selected and unselected checkbox options in row 9: PPh yang harus dibayar sendiri and PPh yang lebih dipotong/dipungut. Include the row number, each option label and its checkbox in the cited image region. Return unreadable for unclear marks.",
+  "items": [
+    {
+      "id": "payable",
+      "expected": true
+    },
+    {
+      "id": "overpaid",
+      "expected": false
+    }
+  ]
+}

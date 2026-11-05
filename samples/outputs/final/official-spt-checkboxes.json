@@ -1,0 +1,140 @@
+{
+  "status": "complete",
+  "items": [
+    {
+      "field": "PPh yang harus dibayar sendiri selection",
+      "factKey": "PPh yang harus dibayar sendiri",
+      "value": true,
+      "valueState": "observed",
+      "page": 1,
+      "quote": "PPh YANG HARUS DIBAYAR SENDIRI",
+      "visual": true,
+      "box": [
+        664,
+        155,
+        676,
+        172
+      ],
+      "tableTitle": null,
+      "rowLabel": "9. PPh YANG HARUS DIBAYAR SENDIRI",
+      "rowId": "9",
+      "columnPath": null,
+      "unit": null,
+      "entity": null,
+      "period": null,
+      "chartTitle": null,
+      "series": null,
+      "region": [
+        0.107,
+        0.61,
+        0.441,
+        0.62
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW",
+      "localizationDiagnostic": {
+        "locations": [
+          {
+            "itemIndex": 0,
+            "rowId": "9",
+            "observedValue": true,
+            "labelRegion": [
+              0.107,
+              0.61,
+              0.441,
+              0.618
+            ],
+            "valueRegion": [
+              0.139,
+              0.611,
+              0.174,
+              0.62
+            ]
+          }
+        ],
+        "reason": null
+      }
+    },
+    {
+      "field": "PPh yang lebih dipotong/dipungut selection",
+      "factKey": "PPh yang lebih dipotong/dipungut",
+      "value": false,
+      "valueState": "observed",
+      "page": 1,
+      "quote": "PPh YANG LEBIH DIPOTONG / DIPUNGUT",
+      "visual": true,
+      "box": [
+        676,
+        155,
+        689,
+        172
+      ],
+      "tableTitle": null,
+      "rowLabel": "9. PPh YANG LEBIH DIPOTONG / DIPUNGUT",
+      "rowId": "9",
+      "columnPath": null,
+      "unit": null,
+      "entity": null,
+      "period": null,
+      "chartTitle": null,
+      "series": null,
+      "region": [
+        0.108,
+        0.62,
+        0.442,
+        0.629
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW",
+      "localizationDiagnostic": {
+        "locations": [
+          {
+            "itemIndex": 1,
+            "rowId": "9",
+            "observedValue": false,
+            "labelRegion": [
+              0.108,
+              0.62,
+              0.442,
+              0.628
+            ],
+            "valueRegion": [
+              0.139,
+              0.62,
+              0.174,
+              0.629
+            ]
+          }
+        ],
+        "reason": null
+      }
+    }
+  ],
+  "omittedBatchPlaceholders": 0,
+  "httpAttempts": 2,
+  "recoveries": 0,
+  "processedPages": [
+    1
+  ],
+  "failedPages": [],
+  "skippedPages": [],
+  "errors": [],
+  "apiCalls": 2,
+  "usage": {
+    "inputTokens": 3320,
+    "outputTokens": 590,
+    "totalTokens": 3910,
+    "apiCalls": 2,
+    "retries": 0
+  },
+  "durationMs": 5734,
+  "tables": [],
+  "mode": "live",
+  "provider": "gemini",
+  "instruction": "Extract the selected and unselected checkbox options in row 9: PPh yang harus dibayar sendiri and PPh yang lebih dipotong/dipungut. Include the row number, each option label and its checkbox in the cited image region. Return unreadable for unclear marks.",
+  "model": "gemini-3.1-flash-lite",
+  "promptVersion": "docuground-extraction-v8",
+  "pageCount": 1,
+  "sourceName": "WhatsApp Image 2026-11-05 at 11.06.27.jpeg",
+  "sourceHash": "289e8a5f3685b1526fabd5ac0c8161aa1422341357d82ba04f6d53e95f3e3335"
+}

@@ -1,0 +1,28 @@
+{
+  "document": "samples/inputs/benchmark-form.png",
+  "sourceHash": "a502606c1e10d9accfdf54b484586e865eabd53794eaef0991f0f36e11d88207",
+  "instruction": "Extract the backup custodian, microfilm serial, and fiscal tax year field states.",
+  "coverage": "complete",
+  "note": "Manually reviewed against image derived from page 4. This is one narrow case, not an overall acceptance benchmark.",
+  "items": [
+    {
+      "id": "form.backup",
+      "field": "Secondary Backup Custodian Name",
+      "state": "blank",
+      "value": null
+    },
+    {
+      "id": "form.microfilm",
+      "field": "Microfilm Stamp Serial Number",
+      "state": "unreadable",
+      "value": null
+    },
+    {
+      "id": "form.fiscal-year",
+      "field": "Applicable Fiscal Tax Year",
+      "state": "ambiguous",
+      "value": null
+    }
+  ],
+  "purpose": "holdout"
+}

@@ -1,0 +1,40 @@
+{
+  "document": "samples/inputs/benchmark-form.png",
+  "sourceHash": "a502606c1e10d9accfdf54b484586e865eabd53794eaef0991f0f36e11d88207",
+  "instruction": "Extract all Group 1 and Group 2 checkbox states.",
+  "coverage": "complete",
+  "note": "Manually reviewed against image derived from page 4. This is one narrow case, not an overall acceptance benchmark.",
+  "items": [
+    {
+      "id": "group1.standard",
+      "value": true,
+      "state": "observed"
+    },
+    {
+      "id": "group1.expedited",
+      "value": false,
+      "state": "observed"
+    },
+    {
+      "id": "group1.restricted",
+      "value": false,
+      "state": "observed"
+    },
+    {
+      "id": "group2.standard",
+      "value": false,
+      "state": "observed"
+    },
+    {
+      "id": "group2.expedited",
+      "value": true,
+      "state": "observed"
+    },
+    {
+      "id": "group2.restricted",
+      "value": null,
+      "state": "ambiguous"
+    }
+  ],
+  "purpose": "holdout"
+}

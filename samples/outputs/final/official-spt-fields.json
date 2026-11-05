@@ -1,0 +1,302 @@
+{
+  "status": "complete",
+  "items": [
+    {
+      "field": "Tax year",
+      "factKey": "tax_year",
+      "value": "2021",
+      "valueState": "observed",
+      "page": 1,
+      "quote": "2 0 2 1",
+      "visual": true,
+      "box": [
+        32,
+        770,
+        77,
+        937
+      ],
+      "tableTitle": null,
+      "rowLabel": null,
+      "rowId": null,
+      "columnPath": null,
+      "unit": null,
+      "entity": null,
+      "period": null,
+      "chartTitle": null,
+      "series": null,
+      "region": [
+        0.766,
+        0.035,
+        0.938,
+        0.089
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW",
+      "localizationDiagnostic": {
+        "locations": [
+          {
+            "itemIndex": 0,
+            "rowId": null,
+            "observedValue": "2021",
+            "labelRegion": [
+              0.766,
+              0.035,
+              0.864,
+              0.052
+            ],
+            "valueRegion": [
+              0.768,
+              0.052,
+              0.938,
+              0.089
+            ]
+          }
+        ],
+        "reason": null
+      }
+    },
+    {
+      "field": "Penghasilan Neto Fiskal",
+      "factKey": "penghasilan_neto_fiskal",
+      "value": "Rp62.628.902",
+      "valueState": "observed",
+      "page": 1,
+      "quote": "1. PENGHASILAN NETO FISKAL (Diisi dari Formulir 1771-I Nomor 8 Kolom 3) 1 Rp62.628.902",
+      "visual": true,
+      "box": [
+        365,
+        87,
+        396,
+        930
+      ],
+      "tableTitle": null,
+      "rowLabel": "PENGHASILAN NETO FISKAL",
+      "rowId": "1",
+      "columnPath": null,
+      "unit": "IDR",
+      "entity": "PT ABC EFG",
+      "period": "2021",
+      "chartTitle": null,
+      "series": null,
+      "region": [
+        0.105,
+        0.363,
+        0.937,
+        0.385
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW",
+      "localizationDiagnostic": {
+        "locations": [
+          {
+            "itemIndex": 1,
+            "rowId": "1",
+            "observedValue": "Rp62.628.902",
+            "labelRegion": [
+              0.105,
+              0.365,
+              0.477,
+              0.378
+            ],
+            "valueRegion": [
+              0.78,
+              0.363,
+              0.937,
+              0.385
+            ]
+          }
+        ],
+        "reason": null
+      }
+    },
+    {
+      "field": "Penghasilan Kena Pajak",
+      "factKey": "penghasilan_kena_pajak",
+      "value": "Rp42.628.902",
+      "valueState": "observed",
+      "page": 1,
+      "quote": "3. PENGHASILAN KENA PAJAK (1-2) 3 Rp42.628.902",
+      "visual": true,
+      "box": [
+        415,
+        87,
+        442,
+        930
+      ],
+      "tableTitle": null,
+      "rowLabel": "PENGHASILAN KENA PAJAK",
+      "rowId": "3",
+      "columnPath": null,
+      "unit": "IDR",
+      "entity": "PT ABC EFG",
+      "period": "2021",
+      "chartTitle": null,
+      "series": null,
+      "region": [
+        0.105,
+        0.412,
+        0.937,
+        0.432
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW",
+      "localizationDiagnostic": {
+        "locations": [
+          {
+            "itemIndex": 2,
+            "rowId": "3",
+            "observedValue": "Rp42.628.902",
+            "labelRegion": [
+              0.105,
+              0.415,
+              0.478,
+              0.427
+            ],
+            "valueRegion": [
+              0.782,
+              0.412,
+              0.937,
+              0.432
+            ]
+          }
+        ],
+        "reason": null
+      }
+    },
+    {
+      "field": "PPh yang harus dibayar sendiri",
+      "factKey": "pph_yang_harus_dibayar_sendiri",
+      "value": "Rp1.900.100",
+      "valueState": "observed",
+      "page": 1,
+      "quote": "9. a. X PPh YANG HARUS DIBAYAR SENDIRI (6-7-8c) ... 9 Rp1.900.100",
+      "visual": true,
+      "box": [
+        712,
+        87,
+        740,
+        930
+      ],
+      "tableTitle": null,
+      "rowLabel": "PPh YANG HARUS DIBAYAR SENDIRI",
+      "rowId": "9",
+      "columnPath": null,
+      "unit": "IDR",
+      "entity": "PT ABC EFG",
+      "period": "2021",
+      "chartTitle": null,
+      "series": null,
+      "region": [
+        0.105,
+        0.682,
+        0.937,
+        0.704
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW",
+      "localizationDiagnostic": {
+        "locations": [
+          {
+            "itemIndex": 3,
+            "rowId": "9",
+            "observedValue": "Rp1.900.100",
+            "labelRegion": [
+              0.105,
+              0.685,
+              0.456,
+              0.697
+            ],
+            "valueRegion": [
+              0.782,
+              0.682,
+              0.937,
+              0.704
+            ]
+          }
+        ],
+        "reason": null
+      }
+    },
+    {
+      "field": "Payment date",
+      "factKey": "payment_date",
+      "value": "30 04 2022",
+      "valueState": "observed",
+      "page": 1,
+      "quote": "12. PPh YANG KURANG DIBAYAR PADA ANGKA 11.a DISETOR TANGGAL 30 04 2022",
+      "visual": true,
+      "box": [
+        804,
+        615,
+        843,
+        836
+      ],
+      "tableTitle": null,
+      "rowLabel": "PPh YANG KURANG DIBAYAR PADA ANGKA 11.a DISETOR TANGGAL",
+      "rowId": "12",
+      "columnPath": null,
+      "unit": null,
+      "entity": "PT ABC EFG",
+      "period": "2021",
+      "chartTitle": null,
+      "series": null,
+      "region": [
+        0.105,
+        0.827,
+        0.838,
+        0.852
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW",
+      "localizationDiagnostic": {
+        "locations": [
+          {
+            "itemIndex": 4,
+            "rowId": "12",
+            "observedValue": "30 04 2022",
+            "labelRegion": [
+              0.105,
+              0.834,
+              0.528,
+              0.844
+            ],
+            "valueRegion": [
+              0.608,
+              0.827,
+              0.838,
+              0.852
+            ]
+          }
+        ],
+        "reason": null
+      }
+    }
+  ],
+  "omittedBatchPlaceholders": 0,
+  "httpAttempts": 2,
+  "recoveries": 0,
+  "processedPages": [
+    1
+  ],
+  "failedPages": [],
+  "skippedPages": [],
+  "errors": [],
+  "apiCalls": 2,
+  "usage": {
+    "inputTokens": 3458,
+    "outputTokens": 1652,
+    "totalTokens": 5110,
+    "apiCalls": 2,
+    "retries": 0
+  },
+  "durationMs": 6370,
+  "tables": [],
+  "mode": "live",
+  "provider": "gemini",
+  "instruction": "Extract only the tax year, net fiscal income (Penghasilan Neto Fiskal), taxable income (Penghasilan Kena Pajak), income tax payable by the taxpayer (PPh yang harus dibayar sendiri), and payment date. Preserve the printed amounts and date. For each field, cite the image region containing both the label and the value. Distinguish blank from unreadable.",
+  "model": "gemini-3.1-flash-lite",
+  "promptVersion": "docuground-extraction-v8",
+  "pageCount": 1,
+  "sourceName": "WhatsApp Image 2026-11-05 at 11.06.27.jpeg",
+  "sourceHash": "289e8a5f3685b1526fabd5ac0c8161aa1422341357d82ba04f6d53e95f3e3335"
+}

@@ -1,0 +1,3741 @@
+{
+  "status": "partial",
+  "items": [
+    {
+      "field": "Table 1 caption",
+      "factKey": null,
+      "value": "AR HMD design evaluation in manufacturing and maintenance application.",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Table 1\nAR HMD design evaluation in manufacturing and maintenance application.",
+      "visual": true,
+      "box": [
+        72,
+        512,
+        99,
+        935
+      ],
+      "region": [
+        0.512,
+        0.072,
+        0.935,
+        0.099
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 column header: Authors and",
+      "factKey": null,
+      "value": "Authors and",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Authors and",
+      "visual": true,
+      "box": [
+        104,
+        514,
+        116,
+        570
+      ],
+      "region": [
+        0.514,
+        0.104,
+        0.57,
+        0.116
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 column header: Task",
+      "factKey": null,
+      "value": "Task",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Task",
+      "visual": true,
+      "box": [
+        116,
+        514,
+        127,
+        545
+      ],
+      "region": [
+        0.514,
+        0.116,
+        0.545,
+        0.127
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 column header: Attributes",
+      "factKey": null,
+      "value": "Attributes",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Attributes",
+      "visual": true,
+      "box": [
+        104,
+        626,
+        121,
+        683
+      ],
+      "region": [
+        0.626,
+        0.104,
+        0.683,
+        0.121
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 column header: Performance measures",
+      "factKey": null,
+      "value": "Performance measures",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Performance measures",
+      "visual": true,
+      "box": [
+        104,
+        718,
+        143,
+        784
+      ],
+      "region": [
+        0.718,
+        0.104,
+        0.784,
+        0.143
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 column header: Usability and safety-related issues",
+      "factKey": null,
+      "value": "Usability and safety-related issues",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Usability and safety-related issues",
+      "visual": true,
+      "box": [
+        104,
+        801,
+        143,
+        929
+      ],
+      "region": [
+        0.801,
+        0.104,
+        0.929,
+        0.143
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Authors and Task",
+      "factKey": null,
+      "value": "Kim et al. (2019) - Pick part - Assemble",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Kim et al. (2019)\n- Pick part\n- Assemble",
+      "visual": true,
+      "box": [
+        143,
+        514,
+        202,
+        570
+      ],
+      "region": [
+        0.514,
+        0.143,
+        0.57,
+        0.202
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Attributes > HMD types",
+      "factKey": null,
+      "value": "HMD types",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "HMD types",
+      "visual": true,
+      "box": [
+        143,
+        626,
+        157,
+        683
+      ],
+      "region": [
+        0.626,
+        0.143,
+        0.683,
+        0.157
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Attributes > HMD types > Monocular",
+      "factKey": null,
+      "value": "Monocular",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Monocular",
+      "visual": true,
+      "box": [
+        157,
+        600,
+        170,
+        683
+      ],
+      "region": [
+        0.6,
+        0.157,
+        0.683,
+        0.17
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Attributes > HMD types > Binocular",
+      "factKey": null,
+      "value": "Binocular",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Binocular",
+      "visual": true,
+      "box": [
+        170,
+        600,
+        183,
+        683
+      ],
+      "region": [
+        0.6,
+        0.17,
+        0.683,
+        0.183
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Performance measures > HMD types",
+      "factKey": null,
+      "value": "CT: NS\nE: NS",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "HMD types\n\nCT: NS\nE: NS",
+      "visual": true,
+      "box": [
+        143,
+        718,
+        202,
+        784
+      ],
+      "region": [
+        0.718,
+        0.143,
+        0.784,
+        0.202
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Usability and safety-related issues > HMD types",
+      "factKey": null,
+      "value": "- The use of HMD for performing cognitive task while walking may have workplace safety implication such as slips, trips, and falls-related injuries",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- The use of HMD for performing cognitive task while walking may have workplace safety implication such as slips, trips, and falls-related injuries",
+      "visual": true,
+      "box": [
+        143,
+        801,
+        262,
+        929
+      ],
+      "region": [
+        0.801,
+        0.143,
+        0.929,
+        0.262
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Attributes > Information mode",
+      "factKey": null,
+      "value": "Information mode",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Information mode",
+      "visual": true,
+      "box": [
+        269,
+        626,
+        282,
+        683
+      ],
+      "region": [
+        0.626,
+        0.269,
+        0.683,
+        0.282
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Attributes > Information mode > Text-based (T)",
+      "factKey": null,
+      "value": "Text-based (T)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Text-based (T)",
+      "visual": true,
+      "box": [
+        282,
+        600,
+        311,
+        683
+      ],
+      "region": [
+        0.6,
+        0.282,
+        0.683,
+        0.311
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Attributes > Information mode > Graphic-based (G)",
+      "factKey": null,
+      "value": "Graphic-based (G)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Graphic-based (G)",
+      "visual": true,
+      "box": [
+        311,
+        600,
+        340,
+        683
+      ],
+      "region": [
+        0.6,
+        0.311,
+        0.683,
+        0.34
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Performance measures > Information mode",
+      "factKey": null,
+      "value": "CT: S\nT (H) G (L)\nE: S\nT (H) G (L)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Information mode\n\nCT: S\nT (H) G (L)\nE: S\nT (H) G (L)",
+      "visual": true,
+      "box": [
+        269,
+        718,
+        340,
+        784
+      ],
+      "region": [
+        0.718,
+        0.269,
+        0.784,
+        0.34
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Usability and safety-related issues > Information mode",
+      "factKey": null,
+      "value": "- Using HMD with graphic-based information led to improved job performance, reduced perceived workload, and increased discomfort compared to paper-based baseline condition",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Using HMD with graphic-based information led to improved job performance, reduced perceived workload, and increased discomfort compared to paper-based baseline condition",
+      "visual": true,
+      "box": [
+        269,
+        801,
+        420,
+        929
+      ],
+      "region": [
+        0.801,
+        0.269,
+        0.929,
+        0.42
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Attributes > Availability mode",
+      "factKey": null,
+      "value": "Availability mode",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Availability mode",
+      "visual": true,
+      "box": [
+        427,
+        626,
+        440,
+        683
+      ],
+      "region": [
+        0.626,
+        0.427,
+        0.683,
+        0.44
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Attributes > Availability mode > Always-on (Ao)",
+      "factKey": null,
+      "value": "Always-on (Ao)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Always-on (Ao)",
+      "visual": true,
+      "box": [
+        440,
+        600,
+        469,
+        683
+      ],
+      "region": [
+        0.6,
+        0.44,
+        0.683,
+        0.469
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Attributes > Availability mode > On-demand (oD)",
+      "factKey": null,
+      "value": "On-demand (oD)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- On-demand (oD)",
+      "visual": true,
+      "box": [
+        469,
+        600,
+        498,
+        683
+      ],
+      "region": [
+        0.6,
+        0.469,
+        0.683,
+        0.498
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Performance measures > Availability mode",
+      "factKey": null,
+      "value": "CT: NS\nE: S\nAo(L) oD (H)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Availability mode\n\nCT: NS\nE: S\nAo(L) oD (H)",
+      "visual": true,
+      "box": [
+        427,
+        718,
+        498,
+        784
+      ],
+      "region": [
+        0.718,
+        0.427,
+        0.784,
+        0.498
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Kim et al. (2019) — Usability and safety-related issues > Availability mode",
+      "factKey": null,
+      "value": "- On-demand presentation mode led to increased perceived workload and reduced mean usability at 11% compared to always-on",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- On-demand presentation mode led to increased perceived workload and reduced mean usability at 11% compared to always-on",
+      "visual": true,
+      "box": [
+        427,
+        801,
+        578,
+        929
+      ],
+      "region": [
+        0.801,
+        0.427,
+        0.929,
+        0.578
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Authors and Task",
+      "factKey": null,
+      "value": "Zhu et al. (2013) - Assembly and disassembly",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Zhu et al. (2015)\n- Assembly and disassembly",
+      "visual": true,
+      "box": [
+        143,
+        552,
+        202,
+        610
+      ],
+      "region": [
+        0.552,
+        0.143,
+        0.61,
+        0.202
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Attributes > Display positions",
+      "factKey": null,
+      "value": "Display positions",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Display positions",
+      "visual": true,
+      "box": [
+        143,
+        626,
+        157,
+        683
+      ],
+      "region": [
+        0.626,
+        0.143,
+        0.683,
+        0.157
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Attributes > Display positions > Central (C)",
+      "factKey": null,
+      "value": "Central (C)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Central (C)",
+      "visual": true,
+      "box": [
+        157,
+        600,
+        170,
+        683
+      ],
+      "region": [
+        0.6,
+        0.157,
+        0.683,
+        0.17
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Attributes > Display positions > Peripheral (P)",
+      "factKey": null,
+      "value": "Peripheral (P)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Peripheral (P)",
+      "visual": true,
+      "box": [
+        170,
+        600,
+        183,
+        683
+      ],
+      "region": [
+        0.6,
+        0.17,
+        0.683,
+        0.183
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Performance measures > Display positions",
+      "factKey": null,
+      "value": "CT: S\nC(L) P (H)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Display positions\n\nCT: S\nC(L) P (H)",
+      "visual": true,
+      "box": [
+        143,
+        718,
+        202,
+        784
+      ],
+      "region": [
+        0.718,
+        0.143,
+        0.784,
+        0.202
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Usability and safety-related issues > Display positions",
+      "factKey": null,
+      "value": "- Peripheral display position causes user to move their eyes to process the information, which is unnatural.",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Peripheral display position causes user to move their eyes to process the information, which is unnatural.",
+      "visual": true,
+      "box": [
+        143,
+        801,
+        310,
+        890
+      ],
+      "region": [
+        0.801,
+        0.143,
+        0.89,
+        0.31
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Usability and safety-related issues > Display positions (continuation)",
+      "factKey": null,
+      "value": "- Peripheral look is normally used for quick glance and not for fixation. This is probably why central display produced a shorter processing time.",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Peripheral look is normally used for quick glance and not for fixation. This is probably why central display produced a shorter processing time.",
+      "visual": true,
+      "box": [
+        143,
+        891,
+        310,
+        970
+      ],
+      "region": [
+        0.891,
+        0.143,
+        0.97,
+        0.31
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Attributes > Type of display",
+      "factKey": null,
+      "value": "Type of display",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Type of display",
+      "visual": true,
+      "box": [
+        326,
+        626,
+        339,
+        683
+      ],
+      "region": [
+        0.626,
+        0.326,
+        0.683,
+        0.339
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Attributes > Type of display > eyewear",
+      "factKey": null,
+      "value": "eyewear",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- eyewear",
+      "visual": true,
+      "box": [
+        340,
+        600,
+        369,
+        683
+      ],
+      "region": [
+        0.6,
+        0.34,
+        0.683,
+        0.369
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Attributes > Type of display > non eyewear",
+      "factKey": null,
+      "value": "non eyewear",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- non eyewear",
+      "visual": true,
+      "box": [
+        369,
+        600,
+        398,
+        683
+      ],
+      "region": [
+        0.6,
+        0.369,
+        0.683,
+        0.398
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Performance measures > Type of display",
+      "factKey": null,
+      "value": "CT: NS",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Type of display\n\nCT: NS",
+      "visual": true,
+      "box": [
+        326,
+        718,
+        398,
+        784
+      ],
+      "region": [
+        0.718,
+        0.326,
+        0.784,
+        0.398
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Usability and safety-related issues > Type of display",
+      "factKey": null,
+      "value": "- Participants adapted well with the non-eyewear assistance by holding with one hand and work with the other hand.\n- The semi-transparent screen made participants difficult to focus to the extent that they had to cover with one of their hands to provide a dark background which contribute to the extended completion time",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Participants adapted well with the non-eyewear assistance by holding with one hand and work with the other hand.\n- The semi-transparent screen made partici-pants difficult to focus to the extent that they had to cover with one of their hands to pro-vide a dark background which contribute to the extended completion time",
+      "visual": true,
+      "box": [
+        326,
+        801,
+        535,
+        970
+      ],
+      "region": [
+        0.801,
+        0.326,
+        0.97,
+        0.535
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Attributes > Task difficulty",
+      "factKey": null,
+      "value": "Task difficulty",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Task difficulty",
+      "visual": true,
+      "box": [
+        552,
+        626,
+        565,
+        683
+      ],
+      "region": [
+        0.626,
+        0.552,
+        0.683,
+        0.565
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Performance measures > Task difficulty",
+      "factKey": null,
+      "value": "CT: S",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Task difficulty\n\nCT: S",
+      "visual": true,
+      "box": [
+        552,
+        718,
+        625,
+        784
+      ],
+      "region": [
+        0.718,
+        0.552,
+        0.784,
+        0.625
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Usability and safety-related issues > Task difficulty",
+      "factKey": null,
+      "value": "- Insufficient information can make one task more difficult than the other. It was observed that when AR instruction was not sufficient, it took participant longer to complete the task than when using non-wearable assistance, possibly because eyewear technology decreased participant's ability to think themselves (over-reliance)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Insufficient information can make one task more difficult than the other. It was observed that when AR instruction was not sufficient, it took participant longer to complete the task than when using non-wearable assistance, possibly because eyewear technology decreased participant's ability to think them-selves (over-reliance)",
+      "visual": true,
+      "box": [
+        552,
+        801,
+        755,
+        970
+      ],
+      "region": [
+        0.801,
+        0.552,
+        0.97,
+        0.755
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Attributes > Action",
+      "factKey": null,
+      "value": "Action",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Action",
+      "visual": true,
+      "box": [
+        776,
+        626,
+        789,
+        683
+      ],
+      "region": [
+        0.626,
+        0.776,
+        0.683,
+        0.789
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Attributes > Action > Read",
+      "factKey": null,
+      "value": "Read",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Read",
+      "visual": true,
+      "box": [
+        789,
+        600,
+        802,
+        683
+      ],
+      "region": [
+        0.6,
+        0.789,
+        0.683,
+        0.802
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Attributes > Action > Locate",
+      "factKey": null,
+      "value": "Locate",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Locate",
+      "visual": true,
+      "box": [
+        802,
+        600,
+        815,
+        683
+      ],
+      "region": [
+        0.6,
+        0.802,
+        0.683,
+        0.815
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Attributes > Action > Manipulate",
+      "factKey": null,
+      "value": "Manipulate",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Manipulate",
+      "visual": true,
+      "box": [
+        815,
+        600,
+        828,
+        683
+      ],
+      "region": [
+        0.6,
+        0.815,
+        0.683,
+        0.828
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Performance measures > Action",
+      "factKey": null,
+      "value": "CT: S\nR (L)\nL (H) M (H)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "Action\n\nCT: S\nR (L)\nL (H) M (H)",
+      "visual": true,
+      "box": [
+        776,
+        718,
+        828,
+        784
+      ],
+      "region": [
+        0.718,
+        0.776,
+        0.784,
+        0.828
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1: Zhu et al. (2013) — Usability and safety-related issues > Action",
+      "factKey": null,
+      "value": "- Task that requires searching information i.e., Locate induced a longer completion time",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "- Task that requires searching information i.e., Locate induced a longer completion time",
+      "visual": true,
+      "box": [
+        776,
+        801,
+        870,
+        929
+      ],
+      "region": [
+        0.801,
+        0.776,
+        0.929,
+        0.87
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 continuation note",
+      "factKey": null,
+      "value": "(continued on next page)",
+      "valueState": "observed",
+      "page": 4,
+      "quote": "(continued on next page)",
+      "visual": true,
+      "box": [
+        931,
+        791,
+        941,
+        870
+      ],
+      "region": [
+        0.791,
+        0.931,
+        0.87,
+        0.941
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 Authors and Task Attributes — Wang et al. (2019)",
+      "factKey": "table1_authors_task_wang_et_al_2019",
+      "value": null,
+      "valueState": "not_located",
+      "page": 4,
+      "quote": "(continued on next page)",
+      "visual": true,
+      "box": null,
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 (continued) - Authors and Task - Zhu et al. (2013) - task",
+      "factKey": null,
+      "value": "-Assembly and disassembly",
+      "valueState": "observed",
+      "page": 5,
+      "quote": "Zhu et al. (2013) -Assembly and disassembly",
+      "visual": true,
+      "box": [
+        197,
+        63,
+        272,
+        167
+      ],
+      "region": [
+        0.063,
+        0.197,
+        0.167,
+        0.272
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 (continued) - Attributes - Zhu et al. (2013) - LOD",
+      "factKey": null,
+      "value": "LOD",
+      "valueState": "observed",
+      "page": 5,
+      "quote": "Zhu et al. (2013) LOD",
+      "visual": true,
+      "box": [
+        193,
+        169,
+        236,
+        272
+      ],
+      "region": [
+        0.169,
+        0.193,
+        0.272,
+        0.236
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 (continued) - Performance measures - Zhu et al. (2013) - LOD",
+      "factKey": null,
+      "value": "CT: (S N/A) L (H) H (L)",
+      "valueState": "observed",
+      "page": 5,
+      "quote": "CT: (S N/A) L (H) H (L)",
+      "visual": true,
+      "box": [
+        269,
+        269,
+        410,
+        293
+      ],
+      "region": [
+        0.269,
+        0.269,
+        0.293,
+        0.41
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 (continued) - Attributes - Zhu et al. (2013) - LOD levels - Low (L)",
+      "factKey": null,
+      "value": "- Low (L)",
+      "valueState": "observed",
+      "page": 5,
+      "quote": "- Low (L)",
+      "visual": true,
+      "box": [
+        198,
+        346,
+        272,
+        407
+      ],
+      "region": [
+        0.346,
+        0.198,
+        0.407,
+        0.272
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 (continued) - Attributes - Zhu et al. (2013) - LOD levels - High (H)",
+      "factKey": null,
+      "value": "- High (H)",
+      "valueState": "observed",
+      "page": 5,
+      "quote": "- High (H)",
+      "visual": true,
+      "box": [
+        198,
+        416,
+        272,
+        430
+      ],
+      "region": [
+        0.416,
+        0.198,
+        0.43,
+        0.272
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 1 — Authors and Task Attributes (Wang et al. (2019), Disassembly task): Task and Attributes",
+      "factKey": null,
+      "value": "Wang et al. (2019); Disassembly task; Instruction modes; - Manual (M); - 3D animation (A); - Video (V)",
+      "valueState": "observed",
+      "page": 6,
+      "quote": "Wang et al. (2019) Disassembly task Instruction modes",
+      "visual": false,
+      "tableTitle": "Table 1 (continued)",
+      "rowLabel": "Wang et al. (2019) — Disassembly task",
+      "rowId": "table1_wang2019",
+      "columnPath": "Authors and Task > Attributes",
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "CONTEXT_NOT_SUPPORTED"
+    },
+    {
+      "field": "Table 1 — Wang et al. (2019) Disassembly task, Instruction modes: Performance measures",
+      "factKey": null,
+      "value": "CT: S; E: S",
+      "valueState": "observed",
+      "page": 6,
+      "quote": "CT: S M(L) A(L) V (H)  E: S  M (H) A (L) V (H)",
+      "visual": false,
+      "tableTitle": "Table 1 (continued)",
+      "rowLabel": "Wang et al. (2019) — Disassembly task",
+      "rowId": "table1_wang2019",
+      "columnPath": "Authors and Task > Performance measures",
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "CONTEXT_NOT_SUPPORTED"
+    },
+    {
+      "field": "Table 1 — Wang et al. (2019) Disassembly task, Instruction modes: Usability and safety-related issues",
+      "factKey": null,
+      "value": "- AR method (i.e. animation) had the best task performance in reducing the errors - Female participants suffered higher level of visual fatigue, subjective mental workload, and perceived lower system usability when using google glasses-based AR than males",
+      "valueState": "observed",
+      "page": 6,
+      "quote": "- AR method (i.e. animation) had the best task performance in reducing the errors - Female participants suffered higher level of visual fatigue, subjective mental workload, and perceived lower system usability when using google glasses-based AR than males",
+      "visual": false,
+      "tableTitle": "Table 1 (continued)",
+      "rowLabel": "Wang et al. (2019) — Disassembly task",
+      "rowId": "table1_wang2019",
+      "columnPath": "Authors and Task > Usability and safety-related issues",
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "CONTEXT_NOT_SUPPORTED"
+    },
+    {
+      "field": "Table 3 caption",
+      "factKey": null,
+      "value": "Table 3 Demographic data and correlation to task performance.",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "Table 3 Demographic data and correlation to task performance.",
+      "visual": false,
+      "box": null,
+      "region": null,
+      "evidenceStatus": "source_located",
+      "reasonCode": null
+    },
+    {
+      "field": "Table 3 header: Condition (outer) > N",
+      "factKey": null,
+      "value": null,
+      "valueState": "blank",
+      "page": 7,
+      "quote": "Condition",
+      "visual": true,
+      "box": [
+        120,
+        105,
+        165,
+        300
+      ],
+      "region": [
+        0.105,
+        0.12,
+        0.3,
+        0.165
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 header: Condition (outer) > Gender",
+      "factKey": null,
+      "value": null,
+      "valueState": "blank",
+      "page": 7,
+      "quote": "Condition",
+      "visual": true,
+      "box": [
+        120,
+        105,
+        165,
+        300
+      ],
+      "region": [
+        0.105,
+        0.12,
+        0.3,
+        0.165
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 header: Mean (standard deviation) > Age (yrs)",
+      "factKey": null,
+      "value": null,
+      "valueState": "blank",
+      "page": 7,
+      "quote": "Mean (standard deviation)",
+      "visual": true,
+      "box": [
+        165,
+        305,
+        205,
+        720
+      ],
+      "region": [
+        0.305,
+        0.165,
+        0.72,
+        0.205
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 header: Mean (standard deviation) > M exp.(number/5 yrs)",
+      "factKey": null,
+      "value": null,
+      "valueState": "blank",
+      "page": 7,
+      "quote": "Mean (standard deviation)",
+      "visual": true,
+      "box": [
+        165,
+        305,
+        205,
+        720
+      ],
+      "region": [
+        0.305,
+        0.165,
+        0.72,
+        0.205
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 header: Mean (standard deviation) > AR exp (number/5 yrs)",
+      "factKey": null,
+      "value": null,
+      "valueState": "blank",
+      "page": 7,
+      "quote": "Mean (standard deviation)",
+      "visual": true,
+      "box": [
+        165,
+        305,
+        205,
+        720
+      ],
+      "region": [
+        0.305,
+        0.165,
+        0.72,
+        0.205
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 header: Spearman's coefficient > CT - Age",
+      "factKey": null,
+      "value": null,
+      "valueState": "blank",
+      "page": 7,
+      "quote": "Spearman’s coefficient",
+      "visual": true,
+      "box": [
+        165,
+        720,
+        205,
+        950
+      ],
+      "region": [
+        0.72,
+        0.165,
+        0.95,
+        0.205
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 header: Spearman's coefficient > CT - Mexp.",
+      "factKey": null,
+      "value": null,
+      "valueState": "blank",
+      "page": 7,
+      "quote": "Spearman’s coefficient",
+      "visual": true,
+      "box": [
+        165,
+        720,
+        205,
+        950
+      ],
+      "region": [
+        0.72,
+        0.165,
+        0.95,
+        0.205
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 header: Spearman's coefficient > CT - ARexp",
+      "factKey": null,
+      "value": null,
+      "valueState": "blank",
+      "page": 7,
+      "quote": "Spearman’s coefficient",
+      "visual": true,
+      "box": [
+        165,
+        720,
+        205,
+        950
+      ],
+      "region": [
+        0.72,
+        0.165,
+        0.95,
+        0.205
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 header: Spearman's coefficient > Error - Age",
+      "factKey": null,
+      "value": null,
+      "valueState": "blank",
+      "page": 7,
+      "quote": "Spearman’s coefficient",
+      "visual": true,
+      "box": [
+        165,
+        720,
+        205,
+        950
+      ],
+      "region": [
+        0.72,
+        0.165,
+        0.95,
+        0.205
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 header: Spearman's coefficient > Error - Mexp.",
+      "factKey": null,
+      "value": null,
+      "valueState": "blank",
+      "page": 7,
+      "quote": "Spearman’s coefficient",
+      "visual": true,
+      "box": [
+        165,
+        720,
+        205,
+        950
+      ],
+      "region": [
+        0.72,
+        0.165,
+        0.95,
+        0.205
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 header: Spearman's coefficient > Error - ARexp",
+      "factKey": null,
+      "value": null,
+      "valueState": "blank",
+      "page": 7,
+      "quote": "Spearman’s coefficient",
+      "visual": true,
+      "box": [
+        165,
+        720,
+        205,
+        950
+      ],
+      "region": [
+        0.72,
+        0.165,
+        0.95,
+        0.205
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row CG: N",
+      "factKey": null,
+      "value": "10",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "CG 10 M = 7; F = 3",
+      "visual": true,
+      "box": [
+        222,
+        115,
+        245,
+        300
+      ],
+      "region": [
+        0.115,
+        0.222,
+        0.3,
+        0.245
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row CG: Gender",
+      "factKey": null,
+      "value": "M = 7; F = 3",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "CG 10 M = 7; F = 3",
+      "visual": true,
+      "box": [
+        222,
+        115,
+        245,
+        300
+      ],
+      "region": [
+        0.115,
+        0.222,
+        0.3,
+        0.245
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row CG: Age (yrs) mean (SD)",
+      "factKey": null,
+      "value": "26.6 (4.55)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "26.6 (4.55)",
+      "visual": true,
+      "box": [
+        222,
+        300,
+        245,
+        415
+      ],
+      "region": [
+        0.3,
+        0.222,
+        0.415,
+        0.245
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row CG: M exp.(number/5 yrs) mean (SD)",
+      "factKey": null,
+      "value": "219.5 (437.05)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "219.5 (437.05)",
+      "visual": true,
+      "box": [
+        222,
+        415,
+        245,
+        520
+      ],
+      "region": [
+        0.415,
+        0.222,
+        0.52,
+        0.245
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row CG: AR exp (number/5 yrs) mean (SD)",
+      "factKey": null,
+      "value": "3.6 (9.33)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "3.6 (9.33)",
+      "visual": true,
+      "box": [
+        222,
+        520,
+        245,
+        610
+      ],
+      "region": [
+        0.52,
+        0.222,
+        0.61,
+        0.245
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row CG: Spearman's coefficient CT - Age",
+      "factKey": null,
+      "value": "-0.48",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.48",
+      "visual": true,
+      "box": [
+        222,
+        720,
+        245,
+        770
+      ],
+      "region": [
+        0.72,
+        0.222,
+        0.77,
+        0.245
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row CG: Spearman's coefficient CT - Mexp.",
+      "factKey": null,
+      "value": "0.01",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "0.01",
+      "visual": true,
+      "box": [
+        222,
+        770,
+        245,
+        820
+      ],
+      "region": [
+        0.77,
+        0.222,
+        0.82,
+        0.245
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row CG: Spearman's coefficient CT - ARexp",
+      "factKey": null,
+      "value": "-0.18",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.18",
+      "visual": true,
+      "box": [
+        222,
+        820,
+        245,
+        865
+      ],
+      "region": [
+        0.82,
+        0.222,
+        0.865,
+        0.245
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row CG: Spearman's coefficient Error - Age",
+      "factKey": null,
+      "value": "-0.22",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.22",
+      "visual": true,
+      "box": [
+        222,
+        865,
+        245,
+        905
+      ],
+      "region": [
+        0.865,
+        0.222,
+        0.905,
+        0.245
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row CG: Spearman's coefficient Error - Mexp.",
+      "factKey": null,
+      "value": "0.09",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "0.09",
+      "visual": true,
+      "box": [
+        222,
+        905,
+        245,
+        940
+      ],
+      "region": [
+        0.905,
+        0.222,
+        0.94,
+        0.245
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row CG: Spearman's coefficient Error - ARexp",
+      "factKey": null,
+      "value": "0.49",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "0.49",
+      "visual": true,
+      "box": [
+        222,
+        940,
+        245,
+        980
+      ],
+      "region": [
+        0.94,
+        0.222,
+        0.98,
+        0.245
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VH: N",
+      "factKey": null,
+      "value": "11",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "VH 11 M = 9; F = 2",
+      "visual": true,
+      "box": [
+        246,
+        115,
+        270,
+        300
+      ],
+      "region": [
+        0.115,
+        0.246,
+        0.3,
+        0.27
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VH: Gender",
+      "factKey": null,
+      "value": "M = 9; F = 2",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "VH 11 M = 9; F = 2",
+      "visual": true,
+      "box": [
+        246,
+        115,
+        270,
+        300
+      ],
+      "region": [
+        0.115,
+        0.246,
+        0.3,
+        0.27
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VH: Age (yrs) mean (SD)",
+      "factKey": null,
+      "value": "26 (3.77)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "26 (3.77)",
+      "visual": true,
+      "box": [
+        246,
+        300,
+        270,
+        415
+      ],
+      "region": [
+        0.3,
+        0.246,
+        0.415,
+        0.27
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VH: M exp.(number/5 yrs) mean (SD)",
+      "factKey": null,
+      "value": "11.45 (16)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "11.45 (16)",
+      "visual": true,
+      "box": [
+        246,
+        415,
+        270,
+        520
+      ],
+      "region": [
+        0.415,
+        0.246,
+        0.52,
+        0.27
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VH: AR exp (number/5 yrs) mean (SD)",
+      "factKey": null,
+      "value": "4.72 (15.02)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "4.72 (15.02)",
+      "visual": true,
+      "box": [
+        246,
+        520,
+        270,
+        610
+      ],
+      "region": [
+        0.52,
+        0.246,
+        0.61,
+        0.27
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VH: Spearman's coefficient CT - Age",
+      "factKey": null,
+      "value": "0.37",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "0.37",
+      "visual": true,
+      "box": [
+        246,
+        720,
+        270,
+        770
+      ],
+      "region": [
+        0.72,
+        0.246,
+        0.77,
+        0.27
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VH: Spearman's coefficient CT - Mexp.",
+      "factKey": null,
+      "value": "-0.07",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.07",
+      "visual": true,
+      "box": [
+        246,
+        770,
+        270,
+        820
+      ],
+      "region": [
+        0.77,
+        0.246,
+        0.82,
+        0.27
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VH: Spearman's coefficient CT - ARexp",
+      "factKey": null,
+      "value": "-0.42",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.42",
+      "visual": true,
+      "box": [
+        246,
+        820,
+        270,
+        865
+      ],
+      "region": [
+        0.82,
+        0.246,
+        0.865,
+        0.27
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VH: Spearman's coefficient Error - Age",
+      "factKey": null,
+      "value": ".602*",
+      "valueState": "observed",
+      "page": 7,
+      "quote": ".602*",
+      "visual": true,
+      "box": [
+        246,
+        865,
+        270,
+        905
+      ],
+      "region": [
+        0.865,
+        0.246,
+        0.905,
+        0.27
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VH: Spearman's coefficient Error - Mexp.",
+      "factKey": null,
+      "value": ".725*",
+      "valueState": "observed",
+      "page": 7,
+      "quote": ".725*",
+      "visual": true,
+      "box": [
+        246,
+        905,
+        270,
+        940
+      ],
+      "region": [
+        0.905,
+        0.246,
+        0.94,
+        0.27
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VH: Spearman's coefficient Error - ARexp",
+      "factKey": null,
+      "value": "-0.41",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.41",
+      "visual": true,
+      "box": [
+        246,
+        940,
+        270,
+        980
+      ],
+      "region": [
+        0.94,
+        0.246,
+        0.98,
+        0.27
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AH: N",
+      "factKey": null,
+      "value": "10",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "AH 10 M = 9; F = 1",
+      "visual": true,
+      "box": [
+        271,
+        115,
+        293,
+        300
+      ],
+      "region": [
+        0.115,
+        0.271,
+        0.3,
+        0.293
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AH: Gender",
+      "factKey": null,
+      "value": "M = 9; F = 1",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "AH 10 M = 9; F = 1",
+      "visual": true,
+      "box": [
+        271,
+        115,
+        293,
+        300
+      ],
+      "region": [
+        0.115,
+        0.271,
+        0.3,
+        0.293
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AH: Age (yrs) mean (SD)",
+      "factKey": null,
+      "value": "25.2 (3.93)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "25.2 (3.93)",
+      "visual": true,
+      "box": [
+        271,
+        300,
+        293,
+        415
+      ],
+      "region": [
+        0.3,
+        0.271,
+        0.415,
+        0.293
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AH: M exp.(number/5 yrs) mean (SD)",
+      "factKey": null,
+      "value": "11.6 (16.43)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "11.6 (16.43)",
+      "visual": true,
+      "box": [
+        271,
+        415,
+        293,
+        520
+      ],
+      "region": [
+        0.415,
+        0.271,
+        0.52,
+        0.293
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AH: AR exp (number/5 yrs) mean (SD)",
+      "factKey": null,
+      "value": "3.9 (5.95)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "3.9 (5.95)",
+      "visual": true,
+      "box": [
+        271,
+        520,
+        293,
+        610
+      ],
+      "region": [
+        0.52,
+        0.271,
+        0.61,
+        0.293
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AH: Spearman's coefficient CT - Age",
+      "factKey": null,
+      "value": "0.60",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "0.60",
+      "visual": true,
+      "box": [
+        271,
+        720,
+        293,
+        770
+      ],
+      "region": [
+        0.72,
+        0.271,
+        0.77,
+        0.293
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AH: Spearman's coefficient CT - Mexp.",
+      "factKey": null,
+      "value": "-0.01",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.01",
+      "visual": true,
+      "box": [
+        271,
+        770,
+        293,
+        820
+      ],
+      "region": [
+        0.77,
+        0.271,
+        0.82,
+        0.293
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AH: Spearman's coefficient CT - ARexp",
+      "factKey": null,
+      "value": "-0.08",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.08",
+      "visual": true,
+      "box": [
+        271,
+        820,
+        293,
+        865
+      ],
+      "region": [
+        0.82,
+        0.271,
+        0.865,
+        0.293
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AH: Spearman's coefficient Error - Age",
+      "factKey": null,
+      "value": "-0.36",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.36",
+      "visual": true,
+      "box": [
+        271,
+        865,
+        293,
+        905
+      ],
+      "region": [
+        0.865,
+        0.271,
+        0.905,
+        0.293
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AH: Spearman's coefficient Error - Mexp.",
+      "factKey": null,
+      "value": "-0.41",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.41",
+      "visual": true,
+      "box": [
+        271,
+        905,
+        293,
+        940
+      ],
+      "region": [
+        0.905,
+        0.271,
+        0.94,
+        0.293
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AH: Spearman's coefficient Error - ARexp",
+      "factKey": null,
+      "value": "-0.06",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.06",
+      "visual": true,
+      "box": [
+        271,
+        940,
+        293,
+        980
+      ],
+      "region": [
+        0.94,
+        0.271,
+        0.98,
+        0.293
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VV: N",
+      "factKey": null,
+      "value": "10",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "VV 10 M = 9; F = 1",
+      "visual": true,
+      "box": [
+        294,
+        115,
+        318,
+        300
+      ],
+      "region": [
+        0.115,
+        0.294,
+        0.3,
+        0.318
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VV: Gender",
+      "factKey": null,
+      "value": "M = 9; F = 1",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "VV 10 M = 9; F = 1",
+      "visual": true,
+      "box": [
+        294,
+        115,
+        318,
+        300
+      ],
+      "region": [
+        0.115,
+        0.294,
+        0.3,
+        0.318
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VV: Age (yrs) mean (SD)",
+      "factKey": null,
+      "value": "27.5 (4.69)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "27.5 (4.69)",
+      "visual": true,
+      "box": [
+        294,
+        300,
+        318,
+        415
+      ],
+      "region": [
+        0.3,
+        0.294,
+        0.415,
+        0.318
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VV: M exp.(number/5 yrs) mean (SD)",
+      "factKey": null,
+      "value": "32.5 (50.62)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "32.5 (50.62)",
+      "visual": true,
+      "box": [
+        294,
+        415,
+        318,
+        520
+      ],
+      "region": [
+        0.415,
+        0.294,
+        0.52,
+        0.318
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VV: AR exp (number/5 yrs) mean (SD)",
+      "factKey": null,
+      "value": "2.2 (6.28)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "2.2 (6.28)",
+      "visual": true,
+      "box": [
+        294,
+        520,
+        318,
+        610
+      ],
+      "region": [
+        0.52,
+        0.294,
+        0.61,
+        0.318
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VV: Spearman's coefficient CT - Age",
+      "factKey": null,
+      "value": "-0.46",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.46",
+      "visual": true,
+      "box": [
+        294,
+        720,
+        318,
+        770
+      ],
+      "region": [
+        0.72,
+        0.294,
+        0.77,
+        0.318
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VV: Spearman's coefficient CT - Mexp.",
+      "factKey": null,
+      "value": "-0.36",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.36",
+      "visual": true,
+      "box": [
+        294,
+        770,
+        318,
+        820
+      ],
+      "region": [
+        0.77,
+        0.294,
+        0.82,
+        0.318
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VV: Spearman's coefficient CT - ARexp",
+      "factKey": null,
+      "value": "0.07",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "0.07",
+      "visual": true,
+      "box": [
+        294,
+        820,
+        318,
+        865
+      ],
+      "region": [
+        0.82,
+        0.294,
+        0.865,
+        0.318
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VV: Spearman's coefficient Error - Age",
+      "factKey": null,
+      "value": "-0.36",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.36",
+      "visual": true,
+      "box": [
+        294,
+        865,
+        318,
+        905
+      ],
+      "region": [
+        0.865,
+        0.294,
+        0.905,
+        0.318
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VV: Spearman's coefficient Error - Mexp.",
+      "factKey": null,
+      "value": "-0.11",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "−0.11",
+      "visual": true,
+      "box": [
+        294,
+        905,
+        318,
+        940
+      ],
+      "region": [
+        0.905,
+        0.294,
+        0.94,
+        0.318
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row VV: Spearman's coefficient Error - ARexp",
+      "factKey": null,
+      "value": "0.49",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "0.49",
+      "visual": true,
+      "box": [
+        294,
+        940,
+        318,
+        980
+      ],
+      "region": [
+        0.94,
+        0.294,
+        0.98,
+        0.318
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AV: N",
+      "factKey": null,
+      "value": "10",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "AV 10 M = 9; F = 1",
+      "visual": true,
+      "box": [
+        319,
+        115,
+        341,
+        300
+      ],
+      "region": [
+        0.115,
+        0.319,
+        0.3,
+        0.341
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AV: Gender",
+      "factKey": null,
+      "value": "M = 9; F = 1",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "AV 10 M = 9; F = 1",
+      "visual": true,
+      "box": [
+        319,
+        115,
+        341,
+        300
+      ],
+      "region": [
+        0.115,
+        0.319,
+        0.3,
+        0.341
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AV: Age (yrs) mean (SD)",
+      "factKey": null,
+      "value": "26 (4.47)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "26 (4.47)",
+      "visual": true,
+      "box": [
+        319,
+        300,
+        341,
+        415
+      ],
+      "region": [
+        0.3,
+        0.319,
+        0.415,
+        0.341
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AV: M exp.(number/5 yrs) mean (SD)",
+      "factKey": null,
+      "value": "28.3 (39.08)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "28.3 (39.08)",
+      "visual": true,
+      "box": [
+        319,
+        415,
+        341,
+        520
+      ],
+      "region": [
+        0.415,
+        0.319,
+        0.52,
+        0.341
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AV: AR exp (number/5 yrs) mean (SD)",
+      "factKey": null,
+      "value": "0.7 (1.15)",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "0.7 (1.15)",
+      "visual": true,
+      "box": [
+        319,
+        520,
+        341,
+        610
+      ],
+      "region": [
+        0.52,
+        0.319,
+        0.61,
+        0.341
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AV: Spearman's coefficient CT - Age",
+      "factKey": null,
+      "value": "-.739*",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "-.739*",
+      "visual": true,
+      "box": [
+        319,
+        720,
+        341,
+        770
+      ],
+      "region": [
+        0.72,
+        0.319,
+        0.77,
+        0.341
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AV: Spearman's coefficient CT - Mexp.",
+      "factKey": null,
+      "value": "-.779**",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "-.779**",
+      "visual": true,
+      "box": [
+        319,
+        770,
+        341,
+        820
+      ],
+      "region": [
+        0.77,
+        0.319,
+        0.82,
+        0.341
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AV: Spearman's coefficient CT - ARexp",
+      "factKey": null,
+      "value": "0.35",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "0.35",
+      "visual": true,
+      "box": [
+        319,
+        820,
+        341,
+        865
+      ],
+      "region": [
+        0.82,
+        0.319,
+        0.865,
+        0.341
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AV: Spearman's coefficient Error - Age",
+      "factKey": null,
+      "value": "–",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "–",
+      "visual": true,
+      "box": [
+        319,
+        865,
+        341,
+        905
+      ],
+      "region": [
+        0.865,
+        0.319,
+        0.905,
+        0.341
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AV: Spearman's coefficient Error - Mexp.",
+      "factKey": null,
+      "value": "–",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "–",
+      "visual": true,
+      "box": [
+        319,
+        905,
+        341,
+        940
+      ],
+      "region": [
+        0.905,
+        0.319,
+        0.94,
+        0.341
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 row AV: Spearman's coefficient Error - ARexp",
+      "factKey": null,
+      "value": "–",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "–",
+      "visual": true,
+      "box": [
+        319,
+        940,
+        341,
+        980
+      ],
+      "region": [
+        0.94,
+        0.319,
+        0.98,
+        0.341
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Table 3 footnote",
+      "factKey": null,
+      "value": "M exp: maintenance experience, AR exp: exposure to AR, CT: completion time, *p < 0.05, **p < 0.01.",
+      "valueState": "observed",
+      "page": 7,
+      "quote": "M exp: maintenance experience, AR exp: exposure to AR, CT: completion time, *p < 0.05, **p < 0.01.",
+      "visual": false,
+      "box": null,
+      "region": null,
+      "evidenceStatus": "source_located",
+      "reasonCode": null
+    },
+    {
+      "field": "Table 4 title",
+      "factKey": null,
+      "value": "Percentage improvement over paper-based maintenance.",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "Table 4 Percentage improvement over paper-based maintenance.",
+      "visual": false,
+      "region": null,
+      "evidenceStatus": "source_located",
+      "reasonCode": null
+    },
+    {
+      "field": "Table 4 — VH — Improvement over control group",
+      "factKey": null,
+      "value": "31.8",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "VH 31.8 71.8",
+      "visual": false,
+      "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+      "rowLabel": "VH",
+      "rowId": "VH",
+      "columnPath": "Improvement over control group",
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "CONTEXT_NOT_SUPPORTED"
+    },
+    {
+      "field": "Table 4 — VH — Improvement Variability",
+      "factKey": null,
+      "value": "71.8",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "VH 31.8 71.8",
+      "visual": false,
+      "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+      "rowLabel": "VH",
+      "rowId": "VH",
+      "columnPath": "Improvement Variability",
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "CONTEXT_NOT_SUPPORTED"
+    },
+    {
+      "field": "Table 4 — AH — Improvement over control group",
+      "factKey": null,
+      "value": "42.7",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "AH 42.7 75.1",
+      "visual": false,
+      "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+      "rowLabel": "AH",
+      "rowId": "AH",
+      "columnPath": "Improvement over control group",
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "CONTEXT_NOT_SUPPORTED"
+    },
+    {
+      "field": "Table 4 — AH — Improvement Variability",
+      "factKey": null,
+      "value": "75.1",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "AH 42.7 75.1",
+      "visual": false,
+      "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+      "rowLabel": "AH",
+      "rowId": "AH",
+      "columnPath": "Improvement Variability",
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "CONTEXT_NOT_SUPPORTED"
+    },
+    {
+      "field": "Table 4 — VV — Improvement over control group",
+      "factKey": null,
+      "value": "35.1",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "VV 35.1 63.9",
+      "visual": false,
+      "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+      "rowLabel": "VV",
+      "rowId": "VV",
+      "columnPath": "Improvement over control group",
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "CONTEXT_NOT_SUPPORTED"
+    },
+    {
+      "field": "Table 4 — VV — Improvement Variability",
+      "factKey": null,
+      "value": "63.9",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "VV 35.1 63.9",
+      "visual": false,
+      "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+      "rowLabel": "VV",
+      "rowId": "VV",
+      "columnPath": "Improvement Variability",
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "CONTEXT_NOT_SUPPORTED"
+    },
+    {
+      "field": "Table 4 — AV — Improvement over control group",
+      "factKey": null,
+      "value": "43.1",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "AV 43.1 68.3",
+      "visual": false,
+      "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+      "rowLabel": "AV",
+      "rowId": "AV",
+      "columnPath": "Improvement over control group",
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "CONTEXT_NOT_SUPPORTED"
+    },
+    {
+      "field": "Table 4 — AV — Improvement Variability",
+      "factKey": null,
+      "value": "68.3",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "AV 43.1 68.3",
+      "visual": false,
+      "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+      "rowLabel": "AV",
+      "rowId": "AV",
+      "columnPath": "Improvement Variability",
+      "region": null,
+      "evidenceStatus": "needs_review",
+      "reasonCode": "CONTEXT_NOT_SUPPORTED"
+    },
+    {
+      "field": "Figure 2 caption",
+      "factKey": null,
+      "value": "Fig. 2. Task completion time for different maintenance conditions. For an outlier in the data (23), log transformation was applied. *p < 0.05.",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "Fig. 2. Task completion time for different maintenance conditions. For an outlier in the data (23), log transformation was applied. *p < 0.05.",
+      "visual": false,
+      "region": null,
+      "evidenceStatus": "source_located",
+      "reasonCode": null
+    },
+    {
+      "field": "Figure 2 chart title",
+      "factKey": null,
+      "value": "TIME COMPLETION",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "TIME COMPLETION",
+      "visual": true,
+      "box": [
+        65,
+        420,
+        88,
+        580
+      ],
+      "region": [
+        0.42,
+        0.065,
+        0.58,
+        0.088
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 2 y-axis label",
+      "factKey": null,
+      "value": "SECOND",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "SECOND",
+      "visual": true,
+      "box": [
+        370,
+        185,
+        545,
+        225
+      ],
+      "region": [
+        0.185,
+        0.37,
+        0.225,
+        0.545
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 2 y-axis tick label",
+      "factKey": null,
+      "value": "250.00",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "250.00",
+      "visual": true,
+      "box": [
+        300,
+        240,
+        530,
+        320
+      ],
+      "region": [
+        0.24,
+        0.3,
+        0.32,
+        0.53
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 2 y-axis tick label",
+      "factKey": null,
+      "value": "500.00",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "500.00",
+      "visual": true,
+      "box": [
+        300,
+        240,
+        430,
+        320
+      ],
+      "region": [
+        0.24,
+        0.3,
+        0.32,
+        0.43
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 2 y-axis tick label",
+      "factKey": null,
+      "value": "750.00",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "750.00",
+      "visual": true,
+      "box": [
+        300,
+        240,
+        340,
+        320
+      ],
+      "region": [
+        0.24,
+        0.3,
+        0.32,
+        0.34
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 2 y-axis tick label",
+      "factKey": null,
+      "value": "1000.00",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "1000.00",
+      "visual": true,
+      "box": [
+        300,
+        240,
+        250,
+        320
+      ],
+      "region": null,
+      "evidenceStatus": "rejected",
+      "reasonCode": "INVALID_REGION"
+    },
+    {
+      "field": "Figure 2 y-axis tick label",
+      "factKey": null,
+      "value": "1250.00",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "1250.00",
+      "visual": true,
+      "box": [
+        240,
+        240,
+        160,
+        320
+      ],
+      "region": null,
+      "evidenceStatus": "rejected",
+      "reasonCode": "INVALID_REGION"
+    },
+    {
+      "field": "Figure 2 y-axis tick label",
+      "factKey": null,
+      "value": "1500.00",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "1500.00",
+      "visual": true,
+      "box": [
+        240,
+        240,
+        80,
+        320
+      ],
+      "region": null,
+      "evidenceStatus": "rejected",
+      "reasonCode": "INVALID_REGION"
+    },
+    {
+      "field": "Figure 2 x-axis category label",
+      "factKey": null,
+      "value": "Control",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "Control",
+      "visual": true,
+      "box": [
+        325,
+        330,
+        395,
+        345
+      ],
+      "region": [
+        0.33,
+        0.325,
+        0.345,
+        0.395
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 2 x-axis category label",
+      "factKey": null,
+      "value": "VH",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "VH",
+      "visual": true,
+      "box": [
+        435,
+        445,
+        495,
+        455
+      ],
+      "region": [
+        0.445,
+        0.435,
+        0.455,
+        0.495
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 2 x-axis category label",
+      "factKey": null,
+      "value": "AH",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "AH",
+      "visual": true,
+      "box": [
+        510,
+        510,
+        570,
+        520
+      ],
+      "region": [
+        0.51,
+        0.51,
+        0.52,
+        0.57
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 2 x-axis category label",
+      "factKey": null,
+      "value": "VV",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "VV",
+      "visual": true,
+      "box": [
+        570,
+        600,
+        630,
+        615
+      ],
+      "region": [
+        0.6,
+        0.57,
+        0.615,
+        0.63
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 2 x-axis category label",
+      "factKey": null,
+      "value": "AV",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "AV",
+      "visual": true,
+      "box": [
+        620,
+        675,
+        680,
+        690
+      ],
+      "region": [
+        0.675,
+        0.62,
+        0.69,
+        0.68
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 2 printed data label",
+      "factKey": null,
+      "value": "23",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "23",
+      "visual": true,
+      "box": [
+        530,
+        605,
+        265,
+        535
+      ],
+      "region": null,
+      "evidenceStatus": "rejected",
+      "reasonCode": "INVALID_REGION"
+    },
+    {
+      "field": "Figure 3 caption",
+      "factKey": null,
+      "value": "Fig. 3. Number of errors for different maintenance conditions. *p < 0.05.",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "Fig. 3. Number of errors for different maintenance conditions. *p < 0.05.",
+      "visual": false,
+      "region": null,
+      "evidenceStatus": "source_located",
+      "reasonCode": null
+    },
+    {
+      "field": "Figure 3 chart title",
+      "factKey": null,
+      "value": "NUMBER OF ERRORS",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "NUMBER OF ERRORS",
+      "visual": true,
+      "box": [
+        655,
+        425,
+        680,
+        600
+      ],
+      "region": [
+        0.425,
+        0.655,
+        0.6,
+        0.68
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 y-axis label",
+      "factKey": null,
+      "value": "UNIT COUNT",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "UNIT COUNT",
+      "visual": true,
+      "box": [
+        775,
+        200,
+        915,
+        240
+      ],
+      "region": [
+        0.2,
+        0.775,
+        0.24,
+        0.915
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 y-axis tick label",
+      "factKey": null,
+      "value": ".00",
+      "valueState": "observed",
+      "page": 10,
+      "quote": ".00",
+      "visual": true,
+      "box": [
+        880,
+        240,
+        920,
+        285
+      ],
+      "region": [
+        0.24,
+        0.88,
+        0.285,
+        0.92
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 y-axis tick label",
+      "factKey": null,
+      "value": "2.00",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "2.00",
+      "visual": true,
+      "box": [
+        815,
+        240,
+        850,
+        285
+      ],
+      "region": [
+        0.24,
+        0.815,
+        0.285,
+        0.85
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 y-axis tick label",
+      "factKey": null,
+      "value": "4.00",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "4.00",
+      "visual": true,
+      "box": [
+        755,
+        240,
+        785,
+        285
+      ],
+      "region": [
+        0.24,
+        0.755,
+        0.285,
+        0.785
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 y-axis tick label",
+      "factKey": null,
+      "value": "6.00",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "6.00",
+      "visual": true,
+      "box": [
+        690,
+        240,
+        720,
+        285
+      ],
+      "region": [
+        0.24,
+        0.69,
+        0.285,
+        0.72
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 y-axis tick label",
+      "factKey": null,
+      "value": "8.00",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "8.00",
+      "visual": true,
+      "box": [
+        630,
+        240,
+        660,
+        285
+      ],
+      "region": [
+        0.24,
+        0.63,
+        0.285,
+        0.66
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 x-axis category label",
+      "factKey": null,
+      "value": "Control",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "Control",
+      "visual": true,
+      "box": [
+        880,
+        300,
+        925,
+        340
+      ],
+      "region": [
+        0.3,
+        0.88,
+        0.34,
+        0.925
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 x-axis category label",
+      "factKey": null,
+      "value": "VH",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "VH",
+      "visual": true,
+      "box": [
+        880,
+        445,
+        925,
+        460
+      ],
+      "region": [
+        0.445,
+        0.88,
+        0.46,
+        0.925
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 x-axis category label",
+      "factKey": null,
+      "value": "AH",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "AH",
+      "visual": true,
+      "box": [
+        880,
+        505,
+        925,
+        520
+      ],
+      "region": [
+        0.505,
+        0.88,
+        0.52,
+        0.925
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 x-axis category label",
+      "factKey": null,
+      "value": "VV",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "VV",
+      "visual": true,
+      "box": [
+        880,
+        570,
+        925,
+        590
+      ],
+      "region": [
+        0.57,
+        0.88,
+        0.59,
+        0.925
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 x-axis category label",
+      "factKey": null,
+      "value": "AV",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "AV",
+      "visual": true,
+      "box": [
+        880,
+        645,
+        925,
+        665
+      ],
+      "region": [
+        0.645,
+        0.88,
+        0.665,
+        0.925
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    },
+    {
+      "field": "Figure 3 printed data label",
+      "factKey": null,
+      "value": "31",
+      "valueState": "observed",
+      "page": 10,
+      "quote": "31",
+      "visual": true,
+      "box": [
+        800,
+        520,
+        825,
+        545
+      ],
+      "region": [
+        0.52,
+        0.8,
+        0.545,
+        0.825
+      ],
+      "evidenceStatus": "needs_review",
+      "reasonCode": "VISUAL_NEEDS_REVIEW"
+    }
+  ],
+  "omittedBatchPlaceholders": 15,
+  "httpAttempts": 19,
+  "recoveries": 1,
+  "processedPages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "failedPages": [],
+  "skippedPages": [],
+  "errors": [],
+  "apiCalls": 19,
+  "usage": {
+    "inputTokens": 73041,
+    "outputTokens": 26647,
+    "totalTokens": 99688,
+    "apiCalls": 19,
+    "retries": 0
+  },
+  "durationMs": 41800,
+  "tables": [
+    {
+      "title": "Table 1 (continued)",
+      "page": 6,
+      "cells": [
+        {
+          "field": "Table 1 — Authors and Task Attributes (Wang et al. (2019), Disassembly task): Task and Attributes",
+          "factKey": null,
+          "value": "Wang et al. (2019); Disassembly task; Instruction modes; - Manual (M); - 3D animation (A); - Video (V)",
+          "valueState": "observed",
+          "page": 6,
+          "quote": "Wang et al. (2019) Disassembly task Instruction modes",
+          "visual": false,
+          "tableTitle": "Table 1 (continued)",
+          "rowLabel": "Wang et al. (2019) — Disassembly task",
+          "rowId": "table1_wang2019",
+          "columnPath": "Authors and Task > Attributes",
+          "region": null,
+          "evidenceStatus": "needs_review",
+          "reasonCode": "CONTEXT_NOT_SUPPORTED"
+        },
+        {
+          "field": "Table 1 — Wang et al. (2019) Disassembly task, Instruction modes: Performance measures",
+          "factKey": null,
+          "value": "CT: S; E: S",
+          "valueState": "observed",
+          "page": 6,
+          "quote": "CT: S M(L) A(L) V (H)  E: S  M (H) A (L) V (H)",
+          "visual": false,
+          "tableTitle": "Table 1 (continued)",
+          "rowLabel": "Wang et al. (2019) — Disassembly task",
+          "rowId": "table1_wang2019",
+          "columnPath": "Authors and Task > Performance measures",
+          "region": null,
+          "evidenceStatus": "needs_review",
+          "reasonCode": "CONTEXT_NOT_SUPPORTED"
+        },
+        {
+          "field": "Table 1 — Wang et al. (2019) Disassembly task, Instruction modes: Usability and safety-related issues",
+          "factKey": null,
+          "value": "- AR method (i.e. animation) had the best task performance in reducing the errors - Female participants suffered higher level of visual fatigue, subjective mental workload, and perceived lower system usability when using google glasses-based AR than males",
+          "valueState": "observed",
+          "page": 6,
+          "quote": "- AR method (i.e. animation) had the best task performance in reducing the errors - Female participants suffered higher level of visual fatigue, subjective mental workload, and perceived lower system usability when using google glasses-based AR than males",
+          "visual": false,
+          "tableTitle": "Table 1 (continued)",
+          "rowLabel": "Wang et al. (2019) — Disassembly task",
+          "rowId": "table1_wang2019",
+          "columnPath": "Authors and Task > Usability and safety-related issues",
+          "region": null,
+          "evidenceStatus": "needs_review",
+          "reasonCode": "CONTEXT_NOT_SUPPORTED"
+        }
+      ],
+      "pages": [
+        6
+      ]
+    },
+    {
+      "title": "Table 4 Percentage improvement over paper-based maintenance.",
+      "page": 10,
+      "cells": [
+        {
+          "field": "Table 4 — VH — Improvement over control group",
+          "factKey": null,
+          "value": "31.8",
+          "valueState": "observed",
+          "page": 10,
+          "quote": "VH 31.8 71.8",
+          "visual": false,
+          "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+          "rowLabel": "VH",
+          "rowId": "VH",
+          "columnPath": "Improvement over control group",
+          "region": null,
+          "evidenceStatus": "needs_review",
+          "reasonCode": "CONTEXT_NOT_SUPPORTED"
+        },
+        {
+          "field": "Table 4 — VH — Improvement Variability",
+          "factKey": null,
+          "value": "71.8",
+          "valueState": "observed",
+          "page": 10,
+          "quote": "VH 31.8 71.8",
+          "visual": false,
+          "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+          "rowLabel": "VH",
+          "rowId": "VH",
+          "columnPath": "Improvement Variability",
+          "region": null,
+          "evidenceStatus": "needs_review",
+          "reasonCode": "CONTEXT_NOT_SUPPORTED"
+        },
+        {
+          "field": "Table 4 — AH — Improvement over control group",
+          "factKey": null,
+          "value": "42.7",
+          "valueState": "observed",
+          "page": 10,
+          "quote": "AH 42.7 75.1",
+          "visual": false,
+          "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+          "rowLabel": "AH",
+          "rowId": "AH",
+          "columnPath": "Improvement over control group",
+          "region": null,
+          "evidenceStatus": "needs_review",
+          "reasonCode": "CONTEXT_NOT_SUPPORTED"
+        },
+        {
+          "field": "Table 4 — AH — Improvement Variability",
+          "factKey": null,
+          "value": "75.1",
+          "valueState": "observed",
+          "page": 10,
+          "quote": "AH 42.7 75.1",
+          "visual": false,
+          "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+          "rowLabel": "AH",
+          "rowId": "AH",
+          "columnPath": "Improvement Variability",
+          "region": null,
+          "evidenceStatus": "needs_review",
+          "reasonCode": "CONTEXT_NOT_SUPPORTED"
+        },
+        {
+          "field": "Table 4 — VV — Improvement over control group",
+          "factKey": null,
+          "value": "35.1",
+          "valueState": "observed",
+          "page": 10,
+          "quote": "VV 35.1 63.9",
+          "visual": false,
+          "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+          "rowLabel": "VV",
+          "rowId": "VV",
+          "columnPath": "Improvement over control group",
+          "region": null,
+          "evidenceStatus": "needs_review",
+          "reasonCode": "CONTEXT_NOT_SUPPORTED"
+        },
+        {
+          "field": "Table 4 — VV — Improvement Variability",
+          "factKey": null,
+          "value": "63.9",
+          "valueState": "observed",
+          "page": 10,
+          "quote": "VV 35.1 63.9",
+          "visual": false,
+          "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+          "rowLabel": "VV",
+          "rowId": "VV",
+          "columnPath": "Improvement Variability",
+          "region": null,
+          "evidenceStatus": "needs_review",
+          "reasonCode": "CONTEXT_NOT_SUPPORTED"
+        },
+        {
+          "field": "Table 4 — AV — Improvement over control group",
+          "factKey": null,
+          "value": "43.1",
+          "valueState": "observed",
+          "page": 10,
+          "quote": "AV 43.1 68.3",
+          "visual": false,
+          "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+          "rowLabel": "AV",
+          "rowId": "AV",
+          "columnPath": "Improvement over control group",
+          "region": null,
+          "evidenceStatus": "needs_review",
+          "reasonCode": "CONTEXT_NOT_SUPPORTED"
+        },
+        {
+          "field": "Table 4 — AV — Improvement Variability",
+          "factKey": null,
+          "value": "68.3",
+          "valueState": "observed",
+          "page": 10,
+          "quote": "AV 43.1 68.3",
+          "visual": false,
+          "tableTitle": "Table 4 Percentage improvement over paper-based maintenance.",
+          "rowLabel": "AV",
+          "rowId": "AV",
+          "columnPath": "Improvement Variability",
+          "region": null,
+          "evidenceStatus": "needs_review",
+          "reasonCode": "CONTEXT_NOT_SUPPORTED"
+        }
+      ],
+      "pages": [
+        10
+      ]
+    }
+  ],
+  "mode": "live",
+  "provider": "deepseek",
+  "instruction": "Extract the Authors and Task Attributes rows for Kim et al. (2019), Zhu et al. (2013), and Wang et al. (2019) in Table 1 including its continued pages. Preserve row and column hierarchy. Also extract all printed values in Table 4, and the captions, axis labels, units and printed data labels of Figures 2 and 3. Do not estimate unlabeled data values. Include source pages and exact quotes or source regions.",
+  "model": "deepseek-flash",
+  "promptVersion": "docuground-deepseek-v4",
+  "pageCount": 18,
+  "sourceName": "1-s2.pdf",
+  "sourceHash": "dbd096f67a2b1f6baed9f989914cefffee860d27c71294d168876b40f7b36c7c"
+}

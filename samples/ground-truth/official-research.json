@@ -1,0 +1,32 @@
+{
+  "sourceHash": "dbd096f67a2b1f6baed9f989914cefffee860d27c71294d168876b40f7b36c7c",
+  "purpose": "development",
+  "coverage": "partial",
+  "instruction": "Extract the article title and authors from its title block, its stated objective or research questions, study design, participants recruited, exclusions and analysis sample sizes, key results, and stated limitations. Focus on this paper’s own study and exclude running headers, cited studies and references. Distinguish information modes from interaction modes and preserve population, comparisons and units. Report each distinct finding once. Use exact source quotes; do not infer missing information.",
+  "items": [
+    {
+      "id": "title",
+      "expected": "A head mounted augmented reality design practice for maintenance assembly: Toward meeting perceptual and cognitive needs of AR users"
+    },
+    {
+      "id": "authors",
+      "expected": "Dedy Ariansyah, John Ahmet Erkoyuncu, Iveta Eimontaite, Teegan Johnson, Anne-Marie Oostveen, Sarah Fletcher, Sarah Sharples"
+    },
+    {
+      "id": "participants",
+      "expected": "63 volunteers"
+    },
+    {
+      "id": "exclusions",
+      "expected": "9 incomplete data and 3 age-related performance outliers"
+    },
+    {
+      "id": "time",
+      "expected": "14% faster for 3D animation than video"
+    },
+    {
+      "id": "limitations",
+      "expected": "simple tasks and limited industrial realism"
+    }
+  ]
+}

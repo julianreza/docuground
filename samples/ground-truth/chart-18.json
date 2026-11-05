@@ -1,0 +1,13 @@
+{
+  "document": "samples/inputs/Gemini Benchmark Test Suite (1).pdf",
+  "sourceHash": "99b1ca348614718edbb8f88e4ead08c1eab85498a1861d1c844815a2719536d8",
+  "instruction": "Extract the printed quarterly throughput chart values.",
+  "purpose": "holdout",
+  "coverage": "complete",
+  "note": "Three printed labels on Figure 1, page 2. The later audit table repeats some values and is not independent source evidence. This is a scoped development case, not a holdout.",
+  "items": [
+    { "id": "figure1.q1.native", "series": "Q1 2024 · Native PDF", "value": "64.0", "unit": "pages/min", "sourcePage": 2 },
+    { "id": "figure1.q2.native", "series": "Q2 2024 · Native PDF", "value": "72.5", "unit": "pages/min", "sourcePage": 2 },
+    { "id": "figure1.q3.windowed", "series": "Q3 2024 · Windowed 3-Pg", "value": "75.0", "unit": "pages/min", "sourcePage": 2 }
+  ]
+}
