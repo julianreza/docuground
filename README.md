@@ -2,6 +2,10 @@
 
 DocuGround is a local document extraction application built for the Senior AI Engineer take-home assessment. Upload a PDF, PNG, or JPEG, edit the extraction instruction, and receive Markdown with page references, source excerpts, and proposed image regions.
 
+## Video walkthrough
+
+[Watch the DocuGround walkthrough on Google Drive](https://drive.google.com/file/d/1JgqSycCgEsTNrfqTB_nZL0W4R7fFFrCA/view?usp=sharing).
+
 ## Run with Docker
 
 Docker with Compose is the only host dependency for running the application.
@@ -167,5 +171,5 @@ Development used Codex for implementation, debugging, regression tests, and docu
 - [ ] Record Docker startup and the local URL.
 - [ ] Demonstrate both original samples, two editable instructions, source navigation, and Markdown download.
 - [ ] Explain architecture, extension points, AI tools, validation, measured results, and limitations.
-- [ ] Add an accessible video link.
+- [x] Add a video walkthrough link.
 - [ ] Verify repository access and invite `deduu` as collaborator.
